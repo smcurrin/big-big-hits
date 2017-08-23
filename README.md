@@ -7,7 +7,7 @@ song | artist | Word/Music | Copyright | youtube link
 Abanda ||||
 apologize||||
 By the time I get to Phoenix||||
-Classical Gas||||
+Classical Gas||Mason Williams||
 Harper Valley P.T.A.|||| 
 Hey Jude |Beatles|||
 Honey ||||
